@@ -1,18 +1,13 @@
 <template>
-  <div>
-    <p>Users</p>
-    <button @click=logout>Logout</button>
-  </div>
+  <Users/>
 </template>
 
 <script>
-import { mapActions } from 'vuex';
+import Users from "../components/Users.vue";
 
 export default {
-  methods: {
-    ...mapActions([
-      'logout'
-    ])
-  },
-}
+  components: {
+    Users
+  }
+};
 </script>
