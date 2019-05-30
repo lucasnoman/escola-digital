@@ -16,7 +16,7 @@ const router = new Router({
     {
       path: '/users',
       name: 'users',
-      component: () => import(/* webpackChunkName: "about" */ './views/Users.vue')
+      component: () => import(/* webpackChunkName: "users" */ './views/Users.vue')
     },
     {
       path: '*',
