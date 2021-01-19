@@ -1,29 +1,23 @@
-# login
+<h1 align="center">
+<img src="https://github.com/lucasnoman/escola-digital/blob/master/src/assets/logo.png" width="30px">
+&nbsp; &nbsp; &nbsp; Escola digita
+<img src="https://github.com/lucasnoman/escola-digital/blob/master/src/assets/logo-creche2.png" width="120px">
+</h1>
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### 💻 Aplicação
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Projeto desenvolvido na disciplina de **aplicações distribuídas** com o intuito de criar uma aplicação web para gerenciar superficialmente uma creche.
 
-### Run your tests
-```
-npm run test
-```
+### 🛸 Tecnologias
 
-### Lints and fixes files
-```
-npm run lint
-```
+- VueJS 2
+- Vuex
+- Vue router
+- Axios
+- Bootstrap/Bootstrap-Vue
+- Sass
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">
+	<img src="https://github.com/lucasnoman/escola-digital/blob/master/src/assets/criancas-felizes-wallpaper.jpg" width="320px">
+</p>
